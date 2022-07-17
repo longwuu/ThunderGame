@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1385436a49693de4494083f2c5993325
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clip: {fileID: 3294214454786222919, guid: 1b52c9711f901ed498fe50124b36cfed, type: 3}
+  - boom: {fileID: 657287634403920180, guid: 82838d1a48dd47647923510464002369, type: 3}
+  - booms_position: {instanceID: 0}
+  - prop: {fileID: 5624519590721135257, guid: e700205a935898a48802e14cf94d3988, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

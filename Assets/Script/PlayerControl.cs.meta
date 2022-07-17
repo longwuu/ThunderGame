@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 94a11efe4d3b7014ebbbb88db5b289dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rig: {instanceID: 0}
+  - clip: {instanceID: 0}
+  - booms: {instanceID: 0}
+  - armor: {fileID: 6472488152096925570, guid: 2e5fd72beaf181b4db60f372c3a8956d, type: 3}
+  - prop_clip: {fileID: 5624519590721135257, guid: e700205a935898a48802e14cf94d3988,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
